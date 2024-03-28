@@ -1,0 +1,150 @@
+{
+  "destinations": [
+    {
+      "name": "Moon",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/be520872-b0ef-45cf-a786-e4a0f1b95d0e",
+        "webp": "./assets/destination/image-moon.webp"
+      },
+      "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
+      "distance": "384,400 km",
+      "travel": "3 days"
+    },
+    {
+      "name": "Mars",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/f93254e8-aea8-410c-80be-15a026a94176",
+        "webp": "./assets/destination/image-mars.webp"
+      },
+      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
+      "distance": "225 mil. km",
+      "travel": "9 months"
+    },
+    {
+      "name": "Europa",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/64b36ed8-ad4b-4f09-a9aa-51774ded0baf",
+        "webp": "./assets/destination/image-europa.webp"
+      },
+      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
+      "distance": "628 mil. km",
+      "travel": "3 years"
+    },
+    {
+      "name": "Titan",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/86245d8c-f9e0-4616-a626-0cdf610f2df1",
+        "webp": "./assets/destination/image-titan.webp"
+      },
+      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+      "distance": "1.6 bil. km",
+      "travel": "7 years"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Douglas Hurley",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/a9c8680a-54fe-4daf-800f-896f23fbb923",
+        "webp": "./assets/crew/image-douglas-hurley.webp"
+      },
+      "role": "Commander",
+      "bio": "Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2."
+    },
+    {
+      "name": "Mark Shuttleworth",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/0f81a062-e05b-4ba2-9ee8-ea235cad5e81",
+        "webp": "./assets/crew/image-mark-shuttleworth.webp"
+      },
+      "role": "Mission Specialist",
+      "bio": "Mark Richard Shuttleworth is the founder and CEO of Canonical, the company behind the Linux-based Ubuntu operating system. Shuttleworth became the first South African to travel to space as a space tourist."
+    },
+    {
+      "name": "Victor Glover",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/288fc0c5-bc66-4e2a-a9cd-bf73966dfed6",
+        "webp": "./assets/crew/image-victor-glover.webp"
+      },
+      "role": "Pilot",
+      "bio": "Pilot on the first operational flight of the SpaceX Crew Dragon to the International Space Station. Glover is a commander in the U.S. Navy where he pilots an F/A-18.He was a crew member of Expedition 64, and served as a station systems flight engineer."
+    },
+    {
+      "name": "Anousheh Ansari",
+      "images": {
+        "png": "https://github.com/ray-mak/space-tourism/assets/154634286/65e2d203-502d-4344-9cd6-6405fd132506",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Flight Engineer",
+      "bio": "Anousheh Ansari is an Iranian American engineer and co-founder of Prodea Systems. Ansari was the fourth self-funded space tourist, the first self-funded woman to fly to the ISS, and the first Iranian in space."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "https://github.com/ray-mak/space-tourism/assets/154634286/46d8ea53-74e6-40ea-9642-274557bcb5ca",
+        "landscape": "https://github.com/ray-mak/space-tourism/assets/154634286/1a0ca879-87f6-4559-a342-fdbf0f6286b8"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "name": "Spaceport",
+      "images": {
+        "portrait": "https://github.com/ray-mak/space-tourism/assets/154634286/98c98a9a-2528-4306-bed5-54381b70561f",
+        "landscape": "https://github.com/ray-mak/space-tourism/assets/154634286/5e470e4d-cc17-4593-b6cb-ab602e8f471e"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "name": "Space capsule",
+      "images": {
+        "portrait": "https://github.com/ray-mak/space-tourism/assets/154634286/09d7147d-cd05-4532-b256-5da7d64d29e9",
+        "landscape": "https://github.com/ray-mak/space-tourism/assets/154634286/f05aeb40-bed8-40f7-8ff2-4e737c71d594"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ],
+  "background": [
+    {
+      "name": "Crew",
+      "images" : {
+        "desktop": "https://github.com/ray-mak/space-tourism/assets/154634286/9439cd01-abf3-4884-9226-d2ff7cf73068",
+        "mobile": "https://github.com/ray-mak/space-tourism/assets/154634286/8b6c91fc-84f0-4498-9110-b326441f4f2a",
+        "tablet": "https://github.com/ray-mak/space-tourism/assets/154634286/c102a98c-0773-48e6-b63d-b02646bd1819"
+      }
+    },
+    {
+      "name": "Destination",
+      "images" : {
+        "desktop": "https://github.com/ray-mak/space-tourism/assets/154634286/cd6fabd1-dc4c-454a-a62d-544cae04ee1c",
+        "mobile": "https://github.com/ray-mak/space-tourism/assets/154634286/f2d89f6f-b567-4b52-a647-b820efd0b73d",
+        "tablet": "https://github.com/ray-mak/space-tourism/assets/154634286/66fa6b1e-947a-4166-886e-52b8dcc3e16f"
+      }
+    },
+    {
+      "name": "Home",
+      "images" : {
+        "desktop": "https://github.com/ray-mak/space-tourism/assets/154634286/cb0a9eac-e99b-42a8-9ac4-7e77a98dab0c",
+        "mobile": "https://github.com/ray-mak/space-tourism/assets/154634286/e1cdce45-8305-482d-ba89-366bfeb03f73",
+        "tablet": "https://github.com/ray-mak/space-tourism/assets/154634286/07b0cae6-16be-4c6a-ae6c-79af0fc3ec51"
+      }
+    },
+    {
+      "name": "Technology",
+      "images" : {
+        "desktop": "https://github.com/ray-mak/space-tourism/assets/154634286/ca825e0c-e354-4be8-af60-e838f3fb0704",
+        "mobile": "https://github.com/ray-mak/space-tourism/assets/154634286/79fd1b88-9684-4a36-8838-1c61fa9e6284",
+        "tablet": "https://github.com/ray-mak/space-tourism/assets/154634286/33e3e9ee-efb1-478c-a9f4-841fcae1b5e2"
+      }
+    },
+    {
+      "name": "Icons",
+      "images" : {
+        "close": "https://github.com/ray-mak/space-tourism/assets/154634286/f82c63ca-e88f-4869-9497-f9ec33e610bf",
+        "hamburger": "https://github.com/ray-mak/space-tourism/assets/154634286/c37b666e-6258-462c-a97d-9310f30fd5a2",
+        "logo": "https://github.com/ray-mak/space-tourism/assets/154634286/c177d138-d394-48f6-95a7-01479923bfa9"
+      }
+    }
+  ]
+}
